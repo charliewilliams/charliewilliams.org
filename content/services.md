@@ -58,7 +58,7 @@ summary = 'Three ways engagements usually run. Most start with the first one, be
 
 **Onsite.** I do a kickoff in person, and up to two weeks onsite per quarter after that. Holding both US and UK citizenship means none of that carries a visa, sponsorship or paperwork question.
 
-**How I invoice.** Business to business, from my own UK limited company, in dollars. A US client can engage me directly, with no employer of record. If a 1099 is simpler at your end, that works too.
+**How I invoice.** Business to business, from my own UK limited company (Charlie Robert Williams Ltd), in dollars. A US client can engage me directly, with no employer of record. If a 1099 is simpler at your end, that works too.
 
 **Where I can help.** Native iOS, Swift and SwiftUI, and the parts of shipping that go wrong: App Store review, privacy requirements, release engineering, performance, and inherited code. I have led teams and trained them, and I am equally happy being the only engineer on something.
 

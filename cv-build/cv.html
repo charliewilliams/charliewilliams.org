@@ -1,0 +1,210 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Charlie Hooper-Williams — CV</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+  @page { size: A4; margin: 0; }
+  :root{
+    --ink:#0E1116; --ink-2:#39424F; --muted:#5A6472;
+    --rule:#E2E5EA; --rule-strong:#CDD3DC;
+    --accent:#1B4FB0; --accent-ink:#153F8C; --accent-soft:#E9F0FC;
+    --paper:#FFFFFF; --surface:#F5F6F8;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0; padding:0}
+  body{
+    width:210mm; min-height:297mm; background:var(--paper); color:var(--ink);
+    font-family:"Instrument Sans","Helvetica Neue",Arial,sans-serif;
+    font-size:8.6pt; line-height:1.34;
+    -webkit-font-smoothing:antialiased;
+  }
+  .page{padding:9.5mm 14mm 6mm}
+
+  /* ---- header ---- */
+  header{display:flex; justify-content:space-between; align-items:flex-end; gap:18px;
+    border-bottom:1.5pt solid var(--ink); padding-bottom:7pt; margin-bottom:10pt}
+  h1{margin:0; font-size:21pt; font-weight:700; letter-spacing:-.02em; line-height:1}
+  .role{margin-top:4pt; font-size:9.6pt; color:var(--accent-ink); font-weight:500; letter-spacing:-.005em}
+  .contact{text-align:right; font-size:7.9pt; color:var(--ink-2); line-height:1.55}
+  .contact a{color:var(--ink-2); text-decoration:none}
+  .contact .lead{color:var(--accent-ink); font-weight:600; font-size:8.3pt}
+
+  /* ---- layout ---- */
+  .cols{display:grid; grid-template-columns:1fr 60mm; gap:12mm; align-items:start}
+  section{margin-bottom:8.5pt}
+  section:last-child{margin-bottom:0}
+  h2{
+    font-family:"IBM Plex Mono",ui-monospace,monospace; font-size:7.3pt; font-weight:500;
+    letter-spacing:.1em; text-transform:uppercase; color:var(--accent-ink);
+    margin:0 0 5.5pt; padding-bottom:2.5pt; border-bottom:0.8pt solid var(--rule-strong);
+  }
+  .lede{font-size:8.9pt; color:var(--ink-2); margin:0 0 10pt; max-width:100%}
+  .lede strong{color:var(--ink)}
+
+  /* ---- experience entries ---- */
+  .role-entry{margin-bottom:6.5pt}
+  .role-entry:last-child{margin-bottom:0}
+  .rh{display:flex; justify-content:space-between; align-items:baseline; gap:10pt}
+  .rh .who{font-weight:600; font-size:8.9pt}
+  .rh .who .co{font-weight:400; color:var(--ink-2)}
+  .rh .when{
+    font-family:"IBM Plex Mono",ui-monospace,monospace; font-size:6.9pt; color:var(--muted);
+    white-space:nowrap; font-variant-numeric:tabular-nums;
+  }
+  .role-entry p{margin:1.5pt 0 0; color:var(--ink-2); font-size:8.2pt}
+
+  /* ---- sidebar lists ---- */
+  .side section{margin-bottom:6.5pt}
+  .side-entry{margin-bottom:4.5pt; font-size:7.9pt}
+  .side-entry:last-child{margin-bottom:0}
+  .side-entry .t{font-weight:600; color:var(--ink); display:block}
+  .side-entry .o{color:var(--ink-2)}
+  .side-entry .y{
+    font-family:"IBM Plex Mono",ui-monospace,monospace; font-size:6.8pt; color:var(--muted);
+    display:block; margin-top:1pt;
+  }
+
+  .press{
+    display:flex; flex-wrap:wrap; gap:3pt 6pt; margin-top:3.5pt; font-size:7.2pt; color:var(--muted);
+  }
+  .press span{white-space:nowrap}
+  .press span::after{content:"·"; margin-left:6pt; color:var(--rule-strong)}
+  .press span:last-child::after{content:""}
+
+  .pill-row{display:flex; flex-wrap:wrap; gap:4pt; margin-top:1pt}
+  .pill{
+    font-family:"IBM Plex Mono",ui-monospace,monospace; font-size:6.8pt;
+    background:var(--accent-soft); color:var(--accent-ink); padding:2pt 5.5pt; border-radius:2px;
+  }
+
+  footer{
+    margin-top:7pt; padding-top:5pt; border-top:0.8pt solid var(--rule);
+    display:flex; justify-content:space-between; font-size:7pt; color:var(--muted);
+  }
+</style>
+</head>
+<body>
+<div class="page">
+
+  <header>
+    <div>
+      <h1>Charlie Hooper-Williams</h1>
+      <div class="role">Fractional CTO &amp; Head of Mobile · Contract iOS Engineer</div>
+    </div>
+    <div class="contact">
+      <div class="lead">charliewilliams.org</div>
+      <div><a href="mailto:c@harl.ie">c@harl.ie</a> · +44 (0)7904 414244</div>
+      <div>Bath, UK · US &amp; UK citizen</div>
+    </div>
+  </header>
+
+  <p class="lede">Twenty years shipping software, mobile for most of the iPhone's existence &mdash; usually solo or in a small team, and often walking into something on fire that needs immediate triage. <strong>One of five engineers on the iOS team at Shazam</strong>, sole developer of its listening animations, during a run to 250 million downloads. <strong>CTO at Wingman</strong>, onshoring an agency-built MVP and scaling it internationally. Repeated pattern of <strong>training and leading engineering teams</strong> through platform transitions and acquisitions.</p>
+
+  <div class="cols">
+    <div class="main">
+
+      <section>
+        <h2>Experience</h2>
+
+        <div class="role-entry">
+          <div class="rh"><span class="who">CTO &amp; Product Lead <span class="co">&middot; Wingman</span></span><span class="when">2019&ndash;2025</span></div>
+          <p>Dating startup. An offshore agency had built the MVP and still controlled the app, backend, website and source. Onshored all of it, brought a rough MVP up to a standard worth scaling, hired and led the engineering team, and grew the product internationally with reliability as the explicit priority.</p>
+        </div>
+
+        <div class="role-entry">
+          <div class="rh"><span class="who">Lead iOS Developer <span class="co">&middot; Mountain Health</span></span><span class="when">2022&ndash;2024</span></div>
+          <p>Sole iOS developer on River Health, a telehealth product. Rebuilt the app to protect patient privacy in a regulated domain, and reworked the experience so it was navigable by patients under real conditions, not only by clinicians.</p>
+        </div>
+
+        <div class="role-entry">
+          <div class="rh"><span class="who">Lead iOS Developer <span class="co">&middot; Learn With Homer</span></span><span class="when">2015&ndash;2018</span></div>
+          <p>Engineering team were web and backend developers with a native iOS product to ship and no in-house Swift capability, very early in Swift's life. Trained the entire team from scratch and led them through the company's acquisition.</p>
+        </div>
+
+        <div class="role-entry">
+          <div class="rh"><span class="who">Developer <span class="co">&middot; Cuddlr</span></span><span class="when">2015&ndash;2016</span></div>
+          <p>Built in collaboration with artist Jeff Kulak. Over 250,000 participants, with worldwide press coverage.</p>
+          <div class="press">
+            <span>The Guardian</span><span>New York Times</span><span>Salon</span><span>BBC</span><span>CBS</span><span>NBC</span><span>CBC</span><span>NPR</span><span>MTV</span>
+          </div>
+        </div>
+
+        <div class="role-entry">
+          <div class="rh"><span class="who">iOS Developer <span class="co">&middot; Shazam</span></span><span class="when">2012&ndash;2014</span></div>
+          <p>One of five engineers on the iOS team. Sole developer of the &lsquo;listening&rsquo; animations &mdash; the app's most-seen and most load-bearing piece of interface. Featured by Apple in TV ads, the App Store, physical stores worldwide and at WWDC. 4.5-star average rating, 250M+ downloads. Later acquired by Apple.</p>
+        </div>
+
+        <div class="role-entry">
+          <div class="rh"><span class="who">Sole Developer <span class="co">&middot; Jingle+</span></span><span class="when">2014</span></div>
+          <p>Physical-modelling shaker app with over half a million downloads.</p>
+        </div>
+
+        <div class="role-entry">
+          <div class="rh"><span class="who">Sole Developer <span class="co">&middot; SingSmash</span></span><span class="when">2010&ndash;2011</span></div>
+          <p>iPhone/iPad game controlled by live singing input. Featured by BBC Music Magazine, Classic FM and ITV; 4.5-star rating.</p>
+        </div>
+
+      </section>
+
+      <section>
+        <h2>How I work</h2>
+        <p class="lede" style="margin-bottom:0">Own UK limited company (Charlie Robert Williams Ltd) since 2014, billing US and UK clients B2B in dollars, no employer of record needed. UK hours, meetings scheduled in the afternoon overlap; kickoff onsite, up to two weeks onsite per quarter. Two shapes of engagement: <strong>fractional Head of Mobile</strong> for a company without a senior mobile person, or <strong>fixed-scope delivery</strong> &mdash; a stalled release, an inherited codebase, an app rescued from an outside vendor.</p>
+      </section>
+
+    </div>
+
+    <div class="side">
+
+      <section>
+        <h2>Teaching</h2>
+        <div class="side-entry"><span class="t">Lecturer</span><span class="o">Columbia College Chicago, MFA Music Composition for the Screen</span><span class="y">2006&ndash;2010</span></div>
+        <div class="side-entry"><span class="t">Faculty</span><span class="o">Northwestern University School of Music</span><span class="y">2001&ndash;2003</span></div>
+        <div class="side-entry"><span class="t">Instructor</span><span class="o">CodeFirst:Girls, Bath</span><span class="y">2014&ndash;2015</span></div>
+        <div class="side-entry"><span class="t">Workshops</span><span class="o">Creative coding, UK venues &amp; Knowle West Media Centre</span><span class="y">2019&ndash;2025</span></div>
+      </section>
+
+      <section>
+        <h2>Education</h2>
+        <div class="side-entry"><span class="t">MPhil, Distinction</span><span class="o">Centre for Music and Science, University of Cambridge</span><span class="y">2011&ndash;2012</span></div>
+        <div class="side-entry"><span class="t">BMus, Piano Performance</span><span class="o">Northwestern University</span><span class="y">2001</span></div>
+      </section>
+
+      <section>
+        <h2>Recognition</h2>
+        <div class="side-entry"><span class="t">Creative Business Growth Fund</span><span class="o">West England Combined Authority</span><span class="y">2022</span></div>
+        <div class="side-entry"><span class="t">CreaTech 100, Ones to Watch</span><span class="o">UK Creative Industries Council</span><span class="y">2021</span></div>
+        <div class="side-entry"><span class="t">Rising Star Award</span><span class="o">Cambridge University Festival of Ideas</span><span class="y">2012</span></div>
+        <div class="side-entry"><span class="t">Jury Prize, New Music Performance</span><span class="o">2nd Shostakovich Int'l Piano Competition, St Petersburg</span><span class="y">2001</span></div>
+      </section>
+
+      <section>
+        <h2>Speaking</h2>
+        <div class="side-entry"><span class="t">How I See Music Using Code</span><span class="o">TEDxBath</span><span class="y">2019</span></div>
+        <div class="side-entry"><span class="t">Biomimetic Electronics</span><span class="o">Univ. of Bristol &middot; Pervasive Media Studio</span><span class="y">2018</span></div>
+        <div class="side-entry"><span class="t">Never Give Up on Quitting</span><span class="o">TEDxWageningenUniversity</span><span class="y">2018</span></div>
+      </section>
+
+      <section>
+        <h2>Stack</h2>
+        <div class="pill-row">
+          <span class="pill">Swift</span><span class="pill">SwiftUI</span><span class="pill">UIKit</span>
+          <span class="pill">Objective-C</span><span class="pill">Core Animation</span>
+          <span class="pill">App Store Delivery</span><span class="pill">Team Leadership</span>
+        </div>
+      </section>
+
+    </div>
+  </div>
+
+  <footer>
+    <span>Charlie Hooper-Williams &middot; charliewilliams.org</span>
+    <span>Full case studies at charliewilliams.org/work</span>
+  </footer>
+
+</div>
+</body>
+</html>

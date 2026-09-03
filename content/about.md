@@ -9,7 +9,7 @@ I have been shipping software for over twenty years, and mobile for most of the 
 
 The basics: one of five engineers on the iOS team at **Shazam**, where I designed and coded the listening animations; **Lead iOS Developer at Learn With Homer**, where I trained the whole engineering team on Swift and led them through the company's acquisition; **sole iOS developer on River Health**, a telehealth product, for several years; and **CTO and product lead at Wingman**, where I onshored an agency-built MVP and turned it into a product worth scaling.
 
-I work through my own UK limited company and have done since 2014, for US and UK clients. For a long stretch of that I was represented by [10x Management](https://10xmanagement.com), who still put work my way on a non-exclusive basis.
+I work through my own UK limited company, Charlie Robert Williams Ltd, and have done since 2014, for US and UK clients. For a long stretch of that I was represented by [10x Management](https://10xmanagement.com), who still put work my way on a non-exclusive basis.
 
 ## Teaching engineers is not a side effect
 
@@ -34,3 +34,5 @@ Earlier work in the same vein: **SingSmash**, a singing-controlled iOS game feat
 ## Getting in touch
 
 The fastest way is email: **[c@harl.ie](mailto:c@harl.ie)**. Tell me what is stuck and I will tell you whether I am the right person for it.
+
+<div class="btn-row"><a class="btn" href="mailto:c@harl.ie">Email me</a> <a class="btn ghost" href="/CHooperWilliams-CV-2026.pdf">Download CV (PDF)</a></div>
