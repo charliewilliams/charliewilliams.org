@@ -1,0 +1,23 @@
+{{ define "main" }}
+<article>
+  <div class="wrap">
+    <div class="cs-head narrow">
+      {{ with .Params.client }}<div class="eyebrow">{{ . }}</div>{{ end }}
+      <h1 style="margin-top:14px">{{ .Title }}</h1>
+      {{ with .Params.summary }}<p class="lede" style="margin-top:20px">{{ . }}</p>{{ end }}
+      {{ if or .Params.role .Params.period .Params.stack }}
+      <div class="cs-meta">
+        {{ with .Params.role }}<div><span class="k">Role</span><span class="v">{{ . }}</span></div>{{ end }}
+        {{ with .Params.period }}<div><span class="k">Period</span><span class="v">{{ . }}</span></div>{{ end }}
+        {{ with .Params.stack }}<div><span class="k">Stack</span><span class="v">{{ . }}</span></div>{{ end }}
+      </div>
+      {{ end }}
+    </div>
+    <div class="prose">{{ .Content }}</div>
+    <div class="btn-row">
+      <a class="btn" href="mailto:{{ .Site.Params.email }}">Talk about your app</a>
+      <a class="btn ghost" href="{{ "/work/" | relURL }}">All work</a>
+    </div>
+  </div>
+</article>
+{{ end }}

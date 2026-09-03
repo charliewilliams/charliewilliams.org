@@ -1,0 +1,18 @@
+{{ define "main" }}
+<div class="wrap">
+  <div class="cs-head narrow">
+    <div class="eyebrow">{{ .Title }}</div>
+    <h1 style="margin-top:14px">{{ with .Params.heading }}{{ . }}{{ else }}{{ .Title }}{{ end }}</h1>
+    {{ with .Content }}<div class="lede" style="margin-top:20px">{{ . }}</div>{{ end }}
+  </div>
+  <div class="work-list">
+    {{ range .Pages.ByWeight }}
+    <a class="work-item" href="{{ .RelPermalink }}">
+      <span class="work-title">{{ .Title }}</span>
+      <span class="work-meta">{{ with .Params.role }}{{ . }}{{ end }}{{ if and .Params.role .Params.period }} · {{ end }}{{ with .Params.period }}{{ . }}{{ end }}</span>
+      <span class="work-sum">{{ .Params.summary }}</span>
+    </a>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

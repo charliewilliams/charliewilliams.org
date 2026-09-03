@@ -1,0 +1,70 @@
+{{ define "main" }}
+<div class="wrap">
+  <section class="hero">
+    <div class="eyebrow">{{ .Site.Params.role }}</div>
+    <h1>{{ .Site.Params.blurb }}</h1>
+    <p class="lede">For a year and a half I was one of five engineers building Shazam — the app that let you point a phone at a speaker and find out what was playing. The recognition engine was a black box to me. My work was everything around it: making something probabilistic and invisible feel instant and trustworthy to people who had never heard the word <em>fingerprint</em>.</p>
+    <p class="lede">That turns out to be good preparation for now, when a lot of companies have a model and no real idea how to put a product around it.</p>
+    <div class="availability"><span class="dot"></span>{{ .Site.Params.availability }}</div>
+  </section>
+</div>
+
+<section class="band">
+  <div class="wrap">
+    <div class="eyebrow">What I do</div>
+    <h2>Two shapes of engagement</h2>
+    <div class="shapes">
+      <div class="shape">
+        <div class="eyebrow">Ongoing</div>
+        <h3>I am your mobile function</h3>
+        <p>For companies with a real product and no senior mobile person — or two or three mobile engineers and nobody above them. Two or three days a week, owning the whole thing.</p>
+        <ul>
+          <li>Architecture and technical direction</li>
+          <li>Release process and App Store relationship</li>
+          <li>Hiring, mentoring and code review</li>
+          <li>Roadmap you can actually ship</li>
+        </ul>
+      </div>
+      <div class="shape">
+        <div class="eyebrow">Fixed scope</div>
+        <h3>Something urgent and specific</h3>
+        <p>An app that has stopped shipping, or was built by someone who is no longer around. I have done this repeatedly, including taking a full stack back from an offshore agency.</p>
+        <ul>
+          <li>Releases that keep failing App Store review</li>
+          <li>Codebases nobody on the team understands</li>
+          <li>Crash rates and performance regressions</li>
+          <li>Extracting a product from an outside vendor</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="band">
+  <div class="wrap">
+    <div class="eyebrow">Selected work</div>
+    <h2>Twenty years of shipping, mostly solo or in small teams</h2>
+    <div class="work-list">
+      {{ range (where .Site.RegularPages "Section" "work").ByWeight }}
+      <a class="work-item" href="{{ .RelPermalink }}">
+        <span class="work-title">{{ .Title }}</span>
+        <span class="work-meta">{{ with .Params.role }}{{ . }}{{ end }}{{ if and .Params.role .Params.period }} · {{ end }}{{ with .Params.period }}{{ . }}{{ end }}</span>
+        <span class="work-sum">{{ .Params.summary }}</span>
+      </a>
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+<section class="band">
+  <div class="wrap">
+    <div class="eyebrow">How it starts</div>
+    <h2>Usually with a two-week look at what you have</h2>
+    <p class="lede">Nobody should commit to six months of anything with someone they have not worked with. A fixed-price Mobile Health Check gets you a written assessment — architecture, release process, crash rate, App Store exposure, and what I would do about it — whether or not we carry on afterwards.</p>
+    <div class="btn-row">
+      <a class="btn" href="{{ "/services/" | relURL }}">What that involves</a>
+      <a class="btn ghost" href="mailto:{{ .Site.Params.email }}">Email me</a>
+    </div>
+  </div>
+</section>
+{{ end }}

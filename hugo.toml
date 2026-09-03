@@ -1,0 +1,36 @@
+baseURL = 'https://charliewilliams.org/'
+locale = 'en-gb'
+title = 'Charlie Hooper-Williams'
+copyright = ''
+canonifyURLs = true
+enableRobotsTXT = true
+
+[params]
+name = 'Charlie Hooper-Williams'
+role = 'Fractional CTO & Head of Mobile · Contract iOS Engineer'
+blurb = 'I take over mobile products that have stopped moving.'
+email = 'c@harl.ie'
+cv_url = '/CHooperWilliams-tech-CV-2025.pdf'
+linkedin = 'https://www.linkedin.com/in/charlieh-w/'
+projects_site = 'https://c.harl.ie'
+availability = 'Available from mid-October 2026'
+rate_from = 175
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[menu]
+  [[menu.main]]
+    name = 'Work'
+    url = '/work/'
+    weight = 1
+  [[menu.main]]
+    name = 'Services'
+    url = '/services/'
+    weight = 2
+  [[menu.main]]
+    name = 'About'
+    url = '/about/'
+    weight = 3
