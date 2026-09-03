@@ -18,7 +18,7 @@ There is a third constraint that is easy to underrate: uptime. If a clinician ca
 
 ## What I did
 
-I was the sole iOS developer on the product, which meant owning the app end to end — architecture, delivery, releases and the App Store relationship.
+I was the sole iOS developer on the product, which meant owning the app end to end: architecture, delivery, releases and the App Store relationship.
 
 - **Rebuilt the app** to protect patient privacy, in a domain where handling that data correctly is a requirement rather than a preference.
 - **Reworked the user experience** so the product was navigable by patients under real conditions, not only by clinicians who use it daily.

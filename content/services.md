@@ -16,7 +16,7 @@ summary = 'Three ways engagements usually run. Most start with the first one, be
       <li>Architecture and code health, in plain language for non-engineers</li>
       <li>Release process, build pipeline and how long shipping actually takes</li>
       <li>Crash rate, performance, and where the user-facing risk sits</li>
-      <li>App Store review and privacy exposure — what would block your next release</li>
+      <li>App Store review and privacy exposure: what would block your next release</li>
       <li>A prioritised plan, and an honest view of whether you need a person or a team</li>
     </ul>
     <p class="note">Most ongoing engagements start here. It is bounded, it needs no headcount decision, and by the end you know exactly what you are dealing with.</p>
@@ -54,10 +54,12 @@ summary = 'Three ways engagements usually run. Most start with the first one, be
 
 ## Practical details
 
-**Where I work.** Remote, from Bath in the UK. I hold both US and UK citizenship, so a US company can engage me directly — no employer of record, no visa question — and I can be onsite for a kickoff or a quarterly without anyone filing paperwork. In practice I work East Coast hours comfortably; West Coast is workable with a bit of care.
+**Where I work.** Remote, from Bath in the UK. I work UK hours and schedule meetings in the afternoon overlap, which covers a US East Coast morning comfortably; West Coast takes a bit more planning.
 
-**How I invoice.** Business to business, from my own UK limited company, in dollars. US clients can also pay me as a US person if that is simpler at their end.
+**Onsite.** I do a kickoff in person, and up to two weeks onsite per quarter after that. Holding both US and UK citizenship means none of that carries a visa, sponsorship or paperwork question.
 
-**What I am good for.** Native iOS, Swift and SwiftUI, and the parts of shipping that go wrong: App Store review, privacy requirements, release engineering, performance, and inherited code. I have led teams and trained them, and I am equally happy being the only engineer on something.
+**How I invoice.** Business to business, from my own UK limited company, in dollars. A US client can engage me directly, with no employer of record. If a 1099 is simpler at your end, that works too.
 
-**What I am not.** I am not an Android specialist, I am not a designer, and I will tell you early if what you need is a team rather than a person.
+**Where I can help.** Native iOS, Swift and SwiftUI, and the parts of shipping that go wrong: App Store review, privacy requirements, release engineering, performance, and inherited code. I have led teams and trained them, and I am equally happy being the only engineer on something.
+
+**Where I am not the right fit.** I am not an Android specialist and I am not a designer. If what you need is a team rather than a person, I will say so early.
