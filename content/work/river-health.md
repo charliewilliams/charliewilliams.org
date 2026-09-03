@@ -1,6 +1,6 @@
 +++
 title = 'Rebuilding a telehealth app for security and usability'
-client = 'Mountain Health'
+client = 'River Health'
 role = 'Lead iOS Developer'
 period = '2022–2024'
 stack = 'Swift · SwiftUI · iOS · Patient data'
@@ -10,7 +10,7 @@ summary = 'Sole iOS developer on River Health, a telehealth product, rebuilding 
 
 ## The problem
 
-Mountain Health built River Health, a telehealth product connecting clinicians and patients. Two things are true of almost everything in that category: the privacy requirements are non-negotiable, and the people using it are often unwell, in a hurry, or unfamiliar with the app.
+River Health is a telehealth platform connecting clinicians and patients. Two things are true of almost everything in that category: the privacy requirements are non-negotiable, and the people using it are often unwell, in a hurry, or unfamiliar with the app.
 
 Those pressures pull against each other. Security work tends to add steps; patient usability demands fewer. Getting both right at once is the actual job.
 

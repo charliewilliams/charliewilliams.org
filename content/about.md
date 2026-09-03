@@ -20,6 +20,7 @@ The thing I get asked to do most often, after building the product, is bring a t
 - **CodeFirst:Girls** (2014–2015), instructor supporting university-enrolled women beginning to code, in Bath
 - **Creative coding workshops** (2019–2025), across UK venues and at Knowle West Media Centre, Bristol, introducing artists to generative tools and interaction design
 - **TEDxBath** (2019), *How I See Music Using Code*, on audiovisual performance systems
+- **Swift course, NewCircle** (San Francisco), for client Epocrates
 
 So when I say I trained Homer's entire engineering team on Swift, that was not a one-off favour. It's something I have longstanding experience with, and it is usually the most durable part of an engagement: the team is still there after I have gone.
 
