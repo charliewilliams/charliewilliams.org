@@ -2,6 +2,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{{ if .IsHome }}{{ .Site.Params.name }} — {{ .Site.Params.role }}{{ else }}{{ .Title }} · {{ .Site.Params.name }}{{ end }}</title>
 <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Params.summary }}{{ . }}{{ else }}Contract iOS and mobile engineering for US and UK companies. Fractional Head of Mobile, app rescue, and delivery for teams without a senior mobile person.{{ end }}{{ end }}">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="canonical" href="{{ .Permalink }}">
 <meta property="og:title" content="{{ if .IsHome }}{{ .Site.Params.name }}{{ else }}{{ .Title }}{{ end }}">
 <meta property="og:type" content="website">

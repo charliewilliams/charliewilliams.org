@@ -2,7 +2,6 @@ baseURL = 'https://charliewilliams.org/'
 locale = 'en-gb'
 title = 'Charlie Hooper-Williams'
 copyright = ''
-canonifyURLs = true
 enableRobotsTXT = true
 
 [params]
