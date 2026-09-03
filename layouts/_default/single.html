@@ -13,6 +13,12 @@
       </div>
       {{ end }}
     </div>
+    {{ with .Params.image }}
+    <figure class="cs-figure">
+      <img src="{{ . }}" alt="{{ $.Params.image_alt | default $.Title }}" loading="lazy">
+      {{ with $.Params.image_caption }}<figcaption>{{ . }}</figcaption>{{ end }}
+    </figure>
+    {{ end }}
     <div class="prose">{{ .Content }}</div>
     <div class="btn-row">
       <a class="btn" href="mailto:{{ .Site.Params.email }}">Talk about your app</a>

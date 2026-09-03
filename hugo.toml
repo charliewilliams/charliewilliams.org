@@ -3,6 +3,7 @@ locale = 'en-gb'
 title = 'Charlie Hooper-Williams'
 copyright = ''
 enableRobotsTXT = true
+disableKinds = ['taxonomy','term']
 
 [params]
 name = 'Charlie Hooper-Williams'

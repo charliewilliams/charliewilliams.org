@@ -215,3 +215,18 @@ a.work-item:hover .work-title{color:var(--accent)}
   .offer .price{margin-left:0; width:100%}
 }
 @media (prefers-reduced-motion:reduce){*{transition:none!important; animation:none!important}}
+
+/* ---------- figures ---------- */
+.cs-figure{margin:34px 0 6px; max-width:720px}
+.cs-figure img{
+  display:block; width:100%; height:auto; border-radius:var(--radius);
+  border:1px solid var(--rule); background:var(--surface);
+}
+.cs-figure figcaption{margin-top:10px; font-size:13.5px; color:var(--muted); max-width:60ch}
+.portrait{
+  float:right; width:190px; margin:4px 0 20px 28px; border-radius:var(--radius);
+  border:1px solid var(--rule);
+}
+@media (max-width:640px){
+  .portrait{float:none; width:150px; margin:0 0 20px}
+}
