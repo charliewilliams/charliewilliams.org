@@ -15,12 +15,12 @@ I work through my own UK limited company, Charlie Robert Williams Ltd, and have 
 
 The thing I get asked to do most often, after building the product, is bring a team up to a standard. That is not accidental: I have been teaching for most of my career.
 
+- **Swift course, NewCircle** (San Francisco, 2015), for client Epocrates
 - **Lecturer, Columbia College Chicago** (2006–2010), MFA Music Composition for the Screen
 - **Faculty, Northwestern University School of Music** (2001–2003)
 - **CodeFirst:Girls** (2014–2015), instructor supporting university-enrolled women beginning to code, in Bath
 - **Creative coding workshops** (2019–2025), across UK venues and at Knowle West Media Centre, Bristol, introducing artists to generative tools and interaction design
 - **TEDxBath** (2019), *How I See Music Using Code*, on audiovisual performance systems
-- **Swift course, NewCircle** (San Francisco), for client Epocrates
 
 So when I say I trained Homer's entire engineering team on Swift, that was not a one-off favour. It's something I have longstanding experience with, and it is usually the most durable part of an engagement: the team is still there after I have gone.
 
