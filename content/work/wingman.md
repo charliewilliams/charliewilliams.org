@@ -1,11 +1,11 @@
 +++
 title = 'Onshoring an agency-built MVP, then making it good'
 client = 'Wingman'
-role = 'Fractional CTO & Product Lead'
+role = 'Fractional CTO'
 period = '2019–2025'
 stack = 'Swift · iOS · Backend · Cloud infrastructure'
 weight = 10
-summary = 'Fractional CTO and product lead for a dating startup. I onshored the agency-built MVP, brought the product up to a standard worth scaling, built the engineering team, and grew it internationally.'
+summary = 'Fractional CTO for a dating startup. I onshored the agency-built MVP, brought the product up to a standard worth scaling, built the engineering team, and grew it internationally.'
 +++
 
 ## The problem
@@ -18,7 +18,7 @@ The product itself was rough. It was an MVP in the honest sense of the term: eno
 
 ## What I did
 
-I came in as fractional CTO and product lead, a few days a week rather than as a full-time hire. The first job was ownership, the second was quality.
+I came in as fractional CTO, a few days a week rather than as a full-time hire. The first job was ownership, the second was quality.
 
 - **Onshored the agency-built MVP**, moving the app, backend, website and source onto infrastructure the company owned and controlled, without interrupting the live product.
 - **Rebuilt the release and deployment process in-house**, which turned shipping from a negotiation into a decision.

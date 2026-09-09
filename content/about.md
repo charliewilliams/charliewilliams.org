@@ -7,7 +7,7 @@ summary = 'Contract software engineer, twenty years in, mobile for most of the i
 
 I have been shipping software for over twenty years, and mobile for most of the time the iPhone has existed. Usually solo or in a small team, and often walking into something that is on fire and needs immediate triage.
 
-The basics: one of five engineers on the iOS team at **Shazam**, where I designed and coded the listening animations; **Lead iOS Developer at Learn With Homer**, where I trained the whole engineering team on Swift and led them through the company's acquisition; **sole iOS developer on River Health**, a telehealth product, for several years; and **fractional CTO and product lead at Wingman**, where I onshored an agency-built MVP and turned it into a product worth scaling.
+The basics: one of five engineers on the iOS team at **Shazam**, where I designed and coded the listening animations; **Lead iOS Developer at Learn With Homer**, where I trained the whole engineering team on Swift and led them through the company's acquisition; **sole iOS developer on River Health**, a telehealth product, for several years; and **fractional CTO at Wingman**, where I onshored an agency-built MVP and turned it into a product worth scaling.
 
 I work through my own UK limited company, Charlie Robert Williams Ltd, and have done since 2014, for US and UK clients. For a long stretch of that I was represented by [10x Management](https://10xmanagement.com), who still put work my way on a non-exclusive basis.
 
