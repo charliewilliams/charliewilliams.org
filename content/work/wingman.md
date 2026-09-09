@@ -1,11 +1,11 @@
 +++
 title = 'Onshoring an agency-built MVP, then making it good'
 client = 'Wingman'
-role = 'CTO & Product Lead'
+role = 'Fractional CTO & Product Lead'
 period = '2019–2025'
 stack = 'Swift · iOS · Backend · Cloud infrastructure'
 weight = 10
-summary = 'CTO and product lead for a dating startup. I onshored the agency-built MVP, brought the product up to a standard worth scaling, built the engineering team, and grew it internationally.'
+summary = 'Fractional CTO and product lead for a dating startup. I onshored the agency-built MVP, brought the product up to a standard worth scaling, built the engineering team, and grew it internationally.'
 +++
 
 ## The problem
@@ -18,7 +18,7 @@ The product itself was rough. It was an MVP in the honest sense of the term: eno
 
 ## What I did
 
-I came in as CTO and product lead. The first job was ownership, the second was quality.
+I came in as fractional CTO and product lead, a few days a week rather than as a full-time hire. The first job was ownership, the second was quality.
 
 - **Onshored the agency-built MVP**, moving the app, backend, website and source onto infrastructure the company owned and controlled, without interrupting the live product.
 - **Rebuilt the release and deployment process in-house**, which turned shipping from a negotiation into a decision.
@@ -31,3 +31,7 @@ I came in as CTO and product lead. The first job was ownership, the second was q
 Wingman owned its own technology, could ship independently, and grew into new markets on that footing. It ran that way until the company's funding ran out in September 2025.
 
 The company not surviving is a separate story from the engineering one. If you are dependent on an agency that holds your source, or sitting on an MVP that has to become a real product, this is ground I have covered before.
+
+> "Charlie was instrumental in helping build the internal team and establish the foundations for a strong, self-sufficient engineering team. He brings a strong combination of technical expertise, strategic thinking and a collaborative approach... I would highly recommend Charlie to any company looking for a strong, thoughtful and collaborative CTO or technical leader."
+>
+> — Vineeta, Product Manager, Wingman

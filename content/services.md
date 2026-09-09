@@ -34,6 +34,7 @@ summary = 'Three ways engagements usually run. Most start with the first one, be
       <li>Hiring, mentoring and code review for your existing engineers</li>
       <li>A roadmap that reflects what can actually be built</li>
     </ul>
+    <p class="note">This is how I worked at Wingman and Catnip: fractional, not full-time, and still fully accountable for the outcome.</p>
   </div>
 
   <div class="offer">
@@ -60,6 +61,6 @@ summary = 'Three ways engagements usually run. Most start with the first one, be
 
 **How I invoice.** Business to business, from my own UK limited company (Charlie Robert Williams Ltd), in dollars. A US client can engage me directly, with no employer of record. If a 1099 is simpler at your end, that works too.
 
-**Where I can help.** Native iOS, Swift and SwiftUI, and the parts of shipping that go wrong: App Store review, privacy requirements, release engineering, performance, and inherited code. I have led teams and trained them, and I am equally happy being the only engineer on something.
+**Where I can help.** Most of what I get called for is a product already in bad shape: App Store review, privacy requirements, release engineering, performance, inherited code. I also build from a design straight through to shipping when that's what's needed — Catnip was exactly that — so don't rule me out just because nothing is on fire yet.
 
 **Where I am not the right fit.** I am not an Android specialist and I am not a designer. If what you need is a team rather than a person, I will say so early.

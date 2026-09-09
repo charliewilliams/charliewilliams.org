@@ -1,7 +1,7 @@
 +++
 title = 'A music social network MVP, at half the estimate'
 client = 'KMGMT'
-role = 'iOS Developer'
+role = 'Fractional iOS Developer'
 period = '2025'
 stack = 'Swift · SwiftUI · AI-assisted development'
 weight = 50
