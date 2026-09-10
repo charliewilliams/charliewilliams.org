@@ -63,4 +63,4 @@ summary = 'Three ways engagements usually run. Most start with the first one, be
 
 **Where I can help.** Most of what comes to me is a product that's stuck: App Store review, privacy requirements, release engineering, performance, inherited code. I also build from a design straight through to shipping when that's what's needed — Catnip was exactly that — so don't rule me out just because nothing is on fire yet.
 
-**Where I am not the right fit.** I am not an Android specialist and I am not a designer. If what you need is a team rather than a person, I will say so early.
+**Where I bring others in.** I have worked extensively with Android and understand the ecosystem, but I am not a native Android developer. I have a strong design sense and enjoy making interfaces that are beautiful, intuitive and functional, but I am not a designer by trade. If what you need is a whole team rather than one person, I will say so early.
