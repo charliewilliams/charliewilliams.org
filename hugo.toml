@@ -7,8 +7,8 @@ disableKinds = ['taxonomy','term']
 
 [params]
 name = 'Charlie Hooper-Williams'
-role = 'Fractional CTO & Head of Mobile · Contract iOS Engineer'
-blurb = 'I take over mobile products that have stopped moving.'
+role = 'Senior iOS Engineer · Mobile Lead'
+blurb = 'Senior iOS engineer, shipping great software since 2012.'
 email = 'c@harl.ie'
 cv_url = '/CHooperWilliams-CV-2026.pdf'
 linkedin = 'https://www.linkedin.com/in/charlieh-w/'

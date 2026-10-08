@@ -1,12 +1,26 @@
 +++
 title = 'How to work with me'
 layout = 'services'
-summary = 'Three ways engagements usually run. Most start with the first one, because it is the easiest thing to say yes to and it tells us both whether the rest makes sense.'
+summary = 'Three ways engagements usually run. Most are hands-on iOS work; the Health Check is the easiest way to start if you are not sure what you need.'
 +++
 
 <div class="shapes" style="margin-top:8px">
 
   <div class="offer lead">
+    <div class="offer-head">
+      <h3>Senior iOS engineering</h3>
+      <span class="price">From $175/hour</span>
+    </div>
+    <p>Hands-on iOS work, either embedded alongside your team or on a defined piece of work: ship the thing, fix the thing, or get the product out of wherever it is stuck.</p>
+    <ul>
+      <li>Releases blocked in App Store review</li>
+      <li>Codebases the current team did not write and cannot safely change</li>
+      <li>Extracting a product from an outside agency or vendor</li>
+      <li>Feature delivery in Swift and SwiftUI alongside your existing team</li>
+    </ul>
+  </div>
+
+  <div class="offer">
     <div class="offer-head">
       <h3>Mobile Health Check</h3>
       <span class="price">Fixed price · from $8,000</span>
@@ -24,7 +38,7 @@ summary = 'Three ways engagements usually run. Most start with the first one, be
 
   <div class="offer">
     <div class="offer-head">
-      <h3>Fractional Head of Mobile</h3>
+      <h3>Fractional CTO / Head of Mobile</h3>
       <span class="price">Monthly retainer</span>
     </div>
     <p>Two or three days a week, ongoing. I run mobile for you: direction, quality, releases and people. For companies with a real product and nobody senior owning the mobile side of it.</p>
@@ -35,20 +49,6 @@ summary = 'Three ways engagements usually run. Most start with the first one, be
       <li>A roadmap that reflects what can actually be built</li>
     </ul>
     <p class="note">This is how I worked at Wingman and Catnip: fractional, not full-time, and still fully accountable for the outcome.</p>
-  </div>
-
-  <div class="offer">
-    <div class="offer-head">
-      <h3>Delivery &amp; rescue</h3>
-      <span class="price">From $175/hour</span>
-    </div>
-    <p>Hands-on work with a defined end: ship the thing, fix the thing, or get the product out of wherever it is stuck.</p>
-    <ul>
-      <li>Releases blocked in App Store review</li>
-      <li>Codebases the current team did not write and cannot safely change</li>
-      <li>Extracting a product from an outside agency or vendor</li>
-      <li>Straight senior iOS delivery alongside your existing team</li>
-    </ul>
   </div>
 
 </div>

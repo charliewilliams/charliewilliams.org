@@ -1,13 +1,13 @@
 +++
 title = 'About'
-summary = 'Contract software engineer, twenty years in, mobile for most of the iPhone’s existence. Based in Bath; US and UK citizen.'
+summary = 'Senior iOS engineer, shipping great software since 2012. Based in Bath; US and UK citizen.'
 +++
 
 <img class="portrait" src="/img/charlie.jpg" alt="Charlie Hooper-Williams">
 
-I have been shipping software for over twenty years, and mobile for most of the time the iPhone has existed. Usually solo or in a small team, and often walking into something that is on fire and needs immediate triage.
+I have been shipping great software since 2012, starting at Shazam, and have been building for iOS for most of the time the iPhone has existed. Usually solo or in a small team, and often walking into something that is on fire and needs immediate triage.
 
-The basics: one of five engineers on the iOS team at **Shazam**, where I designed and coded the listening animations; **Lead iOS Developer at Learn With Homer**, where I trained the whole engineering team on Swift and led them through the company's acquisition; **sole iOS developer on River Health**, a telehealth product, for several years; and **fractional CTO at Wingman**, where I onshored an agency-built MVP and turned it into a product worth scaling.
+The basics: one of five engineers on the iOS team at **Shazam**, where I designed and coded the listening animations; **Lead iOS Developer at Learn With Homer**, where I trained the whole engineering team on Swift and led them through the company's acquisition; **sole iOS developer on River Health**, a telehealth product, for several years; and **fractional CTO at Wingman**, where I onshored an agency-built MVP, including its backend and cloud infrastructure, and turned it into a product worth scaling.
 
 I work through my own UK limited company, Charlie Robert Williams Ltd, and have done since 2014, for US and UK clients. For a long stretch of that I was represented by [10x Management](https://10xmanagement.com), who still put work my way on a non-exclusive basis.
 
