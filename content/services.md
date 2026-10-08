@@ -23,9 +23,9 @@ summary = 'Three ways engagements usually run. Most are hands-on iOS work; the H
   <div class="offer">
     <div class="offer-head">
       <h3>Mobile Health Check</h3>
-      <span class="price">Fixed price · from $8,000</span>
+      <span class="price">Fixed price · quoted per project</span>
     </div>
-    <p>Two weeks. I go through what you have and give you a written assessment you can act on, whether or not you use me to act on it.</p>
+    <p>A short, bounded look at what you have, with a written assessment you can act on whether or not you use me to act on it. Send me a few lines about the project and I will come back with a fixed price and timeline, usually within a couple of days. A small app may need a few days; a larger or messier one may need a couple of weeks.</p>
     <ul>
       <li>Architecture and code health, in plain language for non-engineers</li>
       <li>Release process, build pipeline and how long shipping actually takes</li>
@@ -33,7 +33,7 @@ summary = 'Three ways engagements usually run. Most are hands-on iOS work; the H
       <li>App Store review and privacy exposure: what would block your next release</li>
       <li>A prioritised plan, and an honest view of whether you need a person or a team</li>
     </ul>
-    <p class="note">Most ongoing engagements start here. It is bounded, it needs no headcount decision, and by the end you know exactly what you are dealing with.</p>
+    <p class="note">Scope, price and timeline are agreed before I start, so there are no surprises. It needs no headcount decision, and by the end you know exactly what you are dealing with.</p>
   </div>
 
   <div class="offer">
